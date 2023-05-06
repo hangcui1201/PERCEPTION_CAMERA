@@ -53,7 +53,7 @@
     "socket.io-client": "^2.0.3",
     "stream-selector": "^0.1.1",
     "streamsaver": "^1.0.1",
-    "vega": "^5.3.4",
+    "vega": "^5.23.0",
     "vega-lite": "^3.0.0",
     "vega-tooltip": "^0.4.0"
   },
